@@ -8,7 +8,8 @@ Module 21 Challenge
 <br/>
 By Laura Vara</h2><br/>
 
-(IMAGE) 
+![GitImageText](https://github.com/vara-co/deep-learning-challenge/assets/152572519/a4446b4a-80c4-4cbf-be6a-b974af850e5e)
+
 
 # Report on the Performance of the Deep Learning Model for Alphabet Soup
 
