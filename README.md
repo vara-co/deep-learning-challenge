@@ -10,8 +10,8 @@ By Laura Vara</h2><br/>
 
 ![GitImageText](https://github.com/vara-co/deep-learning-challenge/assets/152572519/a4446b4a-80c4-4cbf-be6a-b974af850e5e)
 
-
-# Report on the Performance of the Deep Learning Model for Alphabet Soup
+<h2 align="center">Report on the Performance of the Deep Learning Model for Alphabet Soup
+<br/>
 
 ## Overview of the Analysis:
 The purpose of this analysis is to develop a deep learning model using TensorFlow and Keras to predict which applicants have the best chances of success if funded by Alphabet Soup, a nonprofit organization. The goal is to create a predictive tool using a training model based on historical data on successful and unsuccessful funding applications, so that this tool can identify potentially successful applicants, thus optimizing the allocation of resources.
